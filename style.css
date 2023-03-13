@@ -63,3 +63,17 @@ button {
     height: auto;
     margin-top: 80px;
 }
+
+.information-header {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
