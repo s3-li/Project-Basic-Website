@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: Arial;
 }
 
 .hero,
@@ -18,7 +19,7 @@ footer {
 
 .headerlogo {
     height: auto;
-    width: 100px;
+    width: 150px;
 }
 
 .header-links {
@@ -31,7 +32,8 @@ footer {
     display: flex;
 }
 
-.hero-body {
+.hero-body,
+.container {
     display: flex;
     margin-left: 100px;
     margin-right: 100px;
@@ -64,6 +66,10 @@ button {
     margin-top: 80px;
 }
 
+.information {
+    padding-bottom: 50px;
+}
+
 .information-header {
     font-size: 36px;
     font-weight: bold;
@@ -74,6 +80,20 @@ button {
 }
 
 .container {
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.grid {
     display: flex;
-    justify-content: space-around;
+    gap: 24px;
+}
+
+.grid-image {
+    width: 300px;
+    height: auto;
+}
+
+.grid-tile {
+    text-align: center;
 }

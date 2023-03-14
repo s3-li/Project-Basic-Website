@@ -3,7 +3,7 @@ A webpage project built and designed using html, css and flexbox.
 
 13th Mar:	Add style.css. Style header, add images.
 		Add information body to index.html
-14th Mar:
+14th Mar:	Add style to information body. Resize images. Change classes in index
 
 
 
