@@ -102,3 +102,10 @@ button {
     background-color: #e5e7eb;
 }
 
+.quote-body {
+    margin-left: 100px;
+    padding-top: 50px;
+    font-size: 36px;
+    text-align: center;
+    padding-bottom: 50px;
+}
