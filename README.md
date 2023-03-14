@@ -3,8 +3,9 @@ A webpage project built and designed using html, css and flexbox.
 
 13th Mar:	Add style.css. Style header, add images.
 		Add information body to index.html
-14th Mar:	Add style to information body. Resize images. Change classes in index
-
+14th Mar:	Add style to information body. Resize images. Edit classes in index
+		Add quote section to index.
+		Style quote section
 
 
 Header logo: Anna Shvets - French Bulldog - https://www.pexels.com/photo/french-bulldog-on-studio-shot-4587998/
