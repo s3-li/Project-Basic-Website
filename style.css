@@ -87,11 +87,15 @@ button {
 .grid {
     display: flex;
     gap: 24px;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .grid-image {
     width: 300px;
     height: auto;
+    border: 5px solid #3882f6;
+    border-radius: 12px;
 }
 
 .grid-tile {
@@ -103,9 +107,13 @@ button {
 }
 
 .quote-body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
     margin-left: 100px;
+    margin-right: 100px;
     padding-top: 50px;
     font-size: 36px;
-    text-align: center;
     padding-bottom: 50px;
+
 }
