@@ -7,7 +7,8 @@ A webpage project built and designed using html, css and flexbox.
 		Add quote section to index.
 		Style quote section
 		Add border to grid image and wrap. Restyle quotes
-18th Mar:	Restyle hero-body in index. Add and style footer. 
+18th Mar:	Restyle hero-body in index. Add and style footer.
+		Give height dimension to heroimage in style.
 
 
 Header logo: Anna Shvets - French Bulldog - https://www.pexels.com/photo/french-bulldog-on-studio-shot-4587998/
@@ -16,3 +17,4 @@ Container image 1: Ilargian Faus - Dog with sunglasses: https://www.pexels.com/p
 Container image 2: Leah Kelley - Cream Retriever: https://www.pexels.com/photo/adult-cream-retriever-sitting-on-grass-540524/
 Container image 3: Blue Bird - Border Collie: https://www.pexels.com/photo/adorable-border-collie-with-leash-7210748/
 Container image 4: Vadim B - Grey kitten: https://www.pexels.com/photo/grey-fur-kitten-127028/
+Dominika Roseclay - Dachshund: https://www.pexels.com/photo/soft-focus-photo-of-dachshund-895259/
