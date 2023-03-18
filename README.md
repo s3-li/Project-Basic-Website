@@ -9,6 +9,7 @@ A webpage project built and designed using html, css and flexbox.
 		Add border to grid image and wrap. Restyle quotes
 18th Mar:	Restyle hero-body in index. Add and style footer.
 		Give height dimension to heroimage in style.
+		Add sorry.html, sorrystyle.css Add image to sorry. Style sorry.
 
 
 Header logo: Anna Shvets - French Bulldog - https://www.pexels.com/photo/french-bulldog-on-studio-shot-4587998/

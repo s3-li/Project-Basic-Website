@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    font-family: Arial;
+}
+
+.hero {
+    background-color: #1F2937;
+}
+
+.sorry-image {
+    width: 500px;
+    height: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.hero-body {
+    justify-content: space-between;
+}
+
+.hero-main-text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.header-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 24px;
+    color: #f9faf8;
+    font-size: 18px;
+}
