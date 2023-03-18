@@ -5,7 +5,7 @@ body {
 }
 
 .hero,
-footer {
+.footer {
     background-color: #1F2937;
 }
 
@@ -32,6 +32,10 @@ footer {
     display: flex;
 }
 
+.hero-body {
+    justify-content: space-between;
+}
+
 .hero-body,
 .container {
     display: flex;
@@ -46,7 +50,7 @@ footer {
     font-weight: bold;
 }
 
-.hero-secondary-text, .header-links {
+.hero-secondary-text, .header-links, .footer-text {
     color: #f9faf8;
     font-size: 18px;
 }
@@ -115,5 +119,11 @@ button {
     padding-top: 50px;
     font-size: 36px;
     padding-bottom: 50px;
+}
 
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
