@@ -1,6 +1,7 @@
 body {
     display: flex;
     font-family: Arial;
+    flex-direction: column;
 }
 
 .hero {
@@ -10,10 +11,12 @@ body {
 .sorry-image {
     width: 500px;
     height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 50px;
 }
 
 .header {
-    display: flex;
     justify-content: space-between;
     margin-top: 50px;
     margin-left: 100px;
@@ -22,9 +25,12 @@ body {
 
 .hero-body {
     justify-content: space-between;
+    display: flex;
 }
 
 .hero-main-text {
+    display: flex;
+    align-items: center;
     color: #f9faf8;
     font-size: 48px;
     font-weight: bold;
@@ -32,8 +38,12 @@ body {
 
 .header-links {
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     gap: 24px;
     color: #f9faf8;
     font-size: 18px;
+}
+
+a {
+    text-decoration: none;
 }

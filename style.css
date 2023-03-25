@@ -55,6 +55,11 @@ body {
     font-size: 18px;
 }
 
+a {
+    color: #f9faf8;
+    text-decoration: none;
+}
+
 button {
     background-color: #3882f6;
     border: none;
