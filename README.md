@@ -1,18 +1,22 @@
 # TOP-flexbox
-A webpage project built and designed using html, css and flexbox.
+An assignment by The Odin Project to build and design a basic website using HTML and CSS. Additionally, CSS Flexbox features will feature heavily to allow for the design  and display of responsive elements within a page.
 
-## 13th Mar:	Add style.css. Style header, add images.
-		Add information body to index.html
-## 14th Mar:	Add style to information body. Resize images. Edit classes in index
-		Add quote section to index.
-		Style quote section
-		Add border to grid image and wrap. Restyle quotes
-## 18th Mar:	Restyle hero-body in index. Add and style footer.
-		Give height dimension to heroimage in style.
-		Add sorry.html, sorrystyle.css Add image to sorry. Style sorry.
-## 25th Mar:	Add href to header links in index. Change text decoration for
-		link in index and sorrystyle.css to none. Update Readme
-		Remove z from sorry.html. Change text for third tile in index.
+## 13th Mar:	
+* Add style.css. Style header, add images.
+* Add information body to index.html.
+## 14th Mar:
+* Add style to information body. Resize images. Edit classes in index.
+* Add quote section to index.
+* Style quote section.
+* Add border to grid image and wrap. Restyle quotes.
+## 18th Mar:
+* Restyle hero-body in index. Add and style footer.
+* Give height dimension to heroimage in style.
+* Add sorry.html, sorrystyle.css Add image to sorry. Style sorry.
+## 25th Mar:
+* Add href to header links in index. Change text decoration for link in index and sorrystyle.css to none.
+* Update Readme
+* Remove z from sorry.html. Change text for third tile in index.
 
 # Image Credits
 * Header logo: Anna Shvets - French Bulldog - https://www.pexels.com/photo/french-bulldog-on-studio-shot-4587998/
